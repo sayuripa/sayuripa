@@ -1,6 +1,6 @@
 # sayuripaの自己紹介！！
- <img src="simosawa.jpg" width="10%"/>
- <img src="pomeko.jpg" width="10%"/>
+ <img src="simosawa.jpg" width="8%"/> <img src="pomeko.jpg" width="10%"/>
+ <br>
 さゆりﾊﾟです
 <br>
 イラストを描くことが得意です。ステッカーや、缶バッチも作ります
