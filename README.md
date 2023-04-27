@@ -3,6 +3,7 @@
 イラスト、ステッカー、缶バッチなどの作成ができます。  
 C原語を勉強中です  
 よろしくお願いします  
+## OS  
 ![](https://img.shields.io/badge/windows-blue.svg?logo=windows11)
 
 
